@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-With a decade of experience as an accomplished AI scientist, my commitment is centered on fostering team growth and consistently delivering exceptional value. I maintain a meticulous, detail-oriented approach, continuously expanding my expertise in the intricate domain of data science, including the nuances of Natural Language Processing (NLP). My contributions span machine learning, deep learning, and NLP, substantiated by my published works and a record of product development. Eager and poised to engage, I am keen to establish meaningful collaborations and explore prospects for mutual advancement.
+With a rich experience as an accomplished AI scientist, my commitment is centered on fostering team growth and consistently delivering exceptional value. I maintain a meticulous, detail-oriented approach, continuously expanding my expertise in the intricate domain of data science, including the nuances of Natural Language Processing (NLP). My contributions span machine learning, deep learning, and NLP, substantiated by my published works and a record of product development. Eager and poised to engage, I am keen to establish meaningful collaborations and explore prospects for mutual advancement.
 <!--
 **abirrahali/abirrahali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
